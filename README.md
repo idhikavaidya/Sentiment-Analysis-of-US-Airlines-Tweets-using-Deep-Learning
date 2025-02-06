@@ -17,3 +17,7 @@ Scikit-learn (Model evaluation)
 
 📊 Results
 The model effectively classifies tweets based on sentiment, providing insights into customer opinions about US airlines.
+
+<img src="https://media.licdn.com/dms/image/v2/D4D22AQEKJPFp9uVr-A/feedshare-shrink_2048_1536/B4DZTbSSn7HYAo-/0/1738845793507?e=1741824000&v=beta&t=DXBpJLOqRGJkAo0aT5KSrDudqd8PvvacTEVfnB-I4UQ">
+<img src="https://media.licdn.com/dms/image/v2/D4D22AQGnycbqGdx_Bw/feedshare-shrink_2048_1536/B4DZTbSSnoGcAs-/0/1738845793498?e=1741824000&v=beta&t=DXRaf2upyOi7aXlbWKhTt4joOGuhvpn9u84Qr-RSty8">
+<img src="https://media.licdn.com/dms/image/v2/D4D22AQHcioEN4kxPcA/feedshare-shrink_1280/B4DZTbSSnfHwAk-/0/1738845793225?e=1741824000&v=beta&t=iXGxw6QSWTvpYHi4Ra2ugPNT_pJj0vU2sKIYQrcVESU">
