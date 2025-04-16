@@ -19,11 +19,8 @@ The model effectively analyzes sentiment, offering insights into passenger opini
 
 
 <p float="left"> 
-  
   <img src="Project Screenshots/1738845793507.jpg"  />
-
   <img src="Project Screenshots/1738845793450.jpg" />
-  
 </p>
 
 
