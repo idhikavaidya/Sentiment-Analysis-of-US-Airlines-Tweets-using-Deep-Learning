@@ -18,13 +18,14 @@ Accuracy: 85.00% | Precision: 85.27% | Recall: 84.62% | F1 Score: 84.94% | ROC A
 The model effectively analyzes sentiment, offering insights into passenger opinions.
 
 
-<p> 
-  <img src="Project Screenshots/1738845793209.jpg" width="50%" />
-  <img src="Project Screenshots/1738845793225.jpg" width="50%" />
-  <img src="Project Screenshots/1738845793450.jpg" width="50%" />
-  <img src="Project Screenshots/1738845793498.jpg" width="50%" />
-  <img src="Project Screenshots/1738845793507.jpg" width="50%" />
+<p align="center">
+  <img src="Project Screenshots/1738845793209.jpg" width="45%" style="display: inline-block; margin: 5px;" />
+  <img src="Project Screenshots/1738845793225.jpg" width="45%" style="display: inline-block; margin: 5px;" />
+  <img src="Project Screenshots/1738845793450.jpg" width="45%" style="display: inline-block; margin: 5px;" />
+  <img src="Project Screenshots/1738845793498.jpg" width="45%" style="display: inline-block; margin: 5px;" />
+  <img src="Project Screenshots/1738845793507.jpg" width="45%" style="display: inline-block; margin: 5px;" />
 </p>
+
 
 
 
