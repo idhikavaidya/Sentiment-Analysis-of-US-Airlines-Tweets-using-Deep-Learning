@@ -22,3 +22,5 @@ The model effectively analyzes sentiment, offering insights into passenger opini
 
 <img src="https://media.licdn.com/dms/image/v2/D4D22AQHcioEN4kxPcA/feedshare-shrink_1280/B4DZTbSSnfHwAk-/0/1738845793225?e=1741824000&v=beta&t=iXGxw6QSWTvpYHi4Ra2ugPNT_pJj0vU2sKIYQrcVESU"> 
 <img src="https://media.licdn.com/dms/image/v2/D4D22AQGES8N1Bs5Ekg/feedshare-shrink_1280/B4DZTbSSnWHYAw-/0/1738845793209?e=1741824000&v=beta&t=S2BVbpVyCO6y_gcLiPEIriK0Xd1X3uZWfWMWLtBpAvs" width="50%">
+
+https://media.licdn.com/dms/image/v2/D4D22AQEKJPFp9uVr-A/feedshare-shrink_2048_1536/B4DZTbSSn7HYAo-/0/1738845793507?e=1747872000&v=beta&t=mzoux5RFU0enm4LKCsc1yyNDGOawD2Jyt9Ed8nZU2gw
