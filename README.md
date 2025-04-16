@@ -19,10 +19,13 @@ The model effectively analyzes sentiment, offering insights into passenger opini
 
 
 
-![Alt text]("C:\Users\Lenovo\Documents\GitHub\sentiment analysis\1738845793209.jpg"
-"C:\Users\Lenovo\Documents\GitHub\sentiment analysis\1738845793225.jpg"
-"C:\Users\Lenovo\Documents\GitHub\sentiment analysis\1738845793450.jpg"
-"C:\Users\Lenovo\Documents\GitHub\sentiment analysis\1738845793498.jpg"
-"C:\Users\Lenovo\Documents\GitHub\sentiment analysis\1738845793507.jpg")
+<p float="left">
+  <img src="images/1738845793209.jpg" width="200" />
+  <img src="images/1738845793225.jpg" width="200" />
+  <img src="images/1738845793450.jpg" width="200" />
+  <img src="images/1738845793498.jpg" width="200" />
+  <img src="images/1738845793507.jpg" width="200" />
+</p>
+
 
 <img src = "https://media.licdn.com/dms/image/v2/D4D22AQEKJPFp9uVr-A/feedshare-shrink_2048_1536/B4DZTbSSn7HYAo-/0/1738845793507?e=1747872000&v=beta&t=mzoux5RFU0enm4LKCsc1yyNDGOawD2Jyt9Ed8nZU2gw">
